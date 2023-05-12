@@ -12,4 +12,6 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/Ejs-1572B6?style=flat&logo=EJS&logoColor=white" />
 	<img src="https://img.shields.io/badge/Express-1572B6?style=flat&logo=Express&logoColor=white" />
+	<img src="https://img.shields.io/badge/Node.js-1572B6?style=flat&logo=Node.js&logoColor=white" />
+
 </div>
