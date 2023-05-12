@@ -1,8 +1,8 @@
 ## 대학교 캡스톤디자인 
-<div align-center>
+<div align='center'>
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hcb'github%20&fontSize=90" />
 </div>
-<div align-center>
+<div align='center'>
  <h3>⚙️ 기술 스택 ⚙️</h3>
  <p>📖 PlatForm & Language 📖</p>
  </div>
