@@ -2,12 +2,12 @@
 <div align='center'>
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hcb'github%20&fontSize=90" />
 </div>
+ </br>
+</br>
 <div align='center'>
  <h3>⚙️ 기술 스택 ⚙️</h3>
  <p>📖 PlatForm & Language 📖</p>
  </div>
- </br>
-</br>
  <div align='center'>
  <img src="https://img.shields.io/badge/JavaScript-ECD53F?style=flat&logo=JavaScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
