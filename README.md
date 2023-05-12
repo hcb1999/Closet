@@ -6,5 +6,8 @@
  <h3>⚙️ 기술 스택 ⚙️</h3>
  <p>📖 PlatForm & Language 📖</p>
  </div>
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+ <div align='center'>
  <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+</div>
