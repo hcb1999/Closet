@@ -25,9 +25,9 @@
 
 # 🐳 프로젝트 화면
 <p>
-	<img width=33% alt="스크린샷" src="https://github.com/hcb1999/timecloset/assets/79966891/3f2d8feb-c6ac-42c8-8d01-cc3bebf965ed">
-	<img width=33% alt="스크린샷" src="https://github.com/hcb1999/timecloset/assets/79966891/3f2d8feb-c6ac-42c8-8d01-cc3bebf965ed">
-	<img width=33% alt="스크린샷" src="https://github.com/hcb1999/timecloset/assets/79966891/3f2d8feb-c6ac-42c8-8d01-cc3bebf965ed">
+	<img width=33% alt="로그인" src="https://github.com/hcb1999/timecloset/assets/79966891/3f2d8feb-c6ac-42c8-8d01-cc3bebf965ed">
+	<img width=33% alt="회원가입" src="https://github.com/hcb1999/timecloset/assets/79966891/3007feab-b0f5-461e-ab11-e205b5d96af3">
+	<img width=33% alt="메인화면" src="https://github.com/hcb1999/timecloset/assets/79966891/77eabbe2-24e4-41b5-a0e1-b8bdca764393">
 </p>
 
 
