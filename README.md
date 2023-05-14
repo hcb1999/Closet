@@ -5,7 +5,9 @@
  </br>
 </br>
 # 🐳 프로젝트 소개
+옷장속에 있는 의류 정보를 기록하여 편리한 옷 관리와 원하는 옷을 조합한 코디 관리 기능을 제공하며 또한 필요 없는 옷들을 판매할 수 있도록 중고거래도 할 수 있는 웹사이트
 
+# 🐳 프로젝트 주요 기능
 ### 1️⃣ 옷장에 있는 내 옷 등록하기
 
 마음에 드는 옷을 내 옷장 웹사이트에 등록해보세요!
@@ -25,15 +27,15 @@
 
 # 🐳 프로젝트 화면
 <p>
-	<img width=33% alt="로그인" src="https://github.com/hcb1999/timecloset/assets/79966891/3f2d8feb-c6ac-42c8-8d01-cc3bebf965ed">
-	<img width=33% alt="회원가입" src="https://github.com/hcb1999/timecloset/assets/79966891/3007feab-b0f5-461e-ab11-e205b5d96af3">
-	<img width=33% alt="메인화면" src="https://github.com/hcb1999/timecloset/assets/79966891/77eabbe2-24e4-41b5-a0e1-b8bdca764393">
+	<img width=50% alt="로그인" src="https://github.com/hcb1999/timecloset/assets/79966891/3f2d8feb-c6ac-42c8-8d01-cc3bebf965ed">
+	<img width=50% alt="회원가입" src="https://github.com/hcb1999/timecloset/assets/79966891/3007feab-b0f5-461e-ab11-e205b5d96af3">
 </p>
 
 <p>
-	<img width=33% alt="상세모" src="https://github.com/hcb1999/timecloset/assets/79966891/ac13fa92-a4c7-44bf-84b4-c6cc3668f111">
-        <img width=33% alt="옷등록" src="https://github.com/hcb1999/timecloset/assets/79966891/664d7822-235f-431e-94f5-61ac776f7871">
-	<img width=33% alt="등록시화면" src="https://github.com/hcb1999/timecloset/assets/79966891/b99143ae-f12c-43aa-90bf-e7c2fdbafb26">
+	<img width=25% alt="메인화면" src="https://github.com/hcb1999/timecloset/assets/79966891/77eabbe2-24e4-41b5-a0e1-b8bdca764393">
+	<img width=25% alt="상세모" src="https://github.com/hcb1999/timecloset/assets/79966891/ac13fa92-a4c7-44bf-84b4-c6cc3668f111">
+        <img width=25% alt="옷등록" src="https://github.com/hcb1999/timecloset/assets/79966891/664d7822-235f-431e-94f5-61ac776f7871">
+	<img width=25% alt="등록시화면" src="https://github.com/hcb1999/timecloset/assets/79966891/b99143ae-f12c-43aa-90bf-e7c2fdbafb26">
 
 </p>
 <p>
