@@ -64,34 +64,34 @@
 **사진별 코디 등록 및 상세보기**
 
 <p>
-<img width=33% alt="사진으로 코디 선택창" src="https://github.com/hcb1999/timecloset/assets/79966891/045a83d5-3961-447c-b226-60e6790947a8">
-<img width=33% alt="사진별 코디 확인창" src="https://github.com/hcb1999/timecloset/assets/79966891/9e062ea1-35aa-4bbd-8b12-c9dcffd9ccf1">
-	<img width=33% alt="사진별 코디 선택시" src="https://github.com/hcb1999/timecloset/assets/79966891/002e2a8f-14e3-4e2b-bae8-631986b7d23e">
+<img width=32.8% alt="사진으로 코디 선택창" src="https://github.com/hcb1999/timecloset/assets/79966891/045a83d5-3961-447c-b226-60e6790947a8">
+<img width=32.8% alt="사진별 코디 확인창" src="https://github.com/hcb1999/timecloset/assets/79966891/9e062ea1-35aa-4bbd-8b12-c9dcffd9ccf1">
+<img width=32.8% alt="사진별 코디 선택시" src="https://github.com/hcb1999/timecloset/assets/79966891/002e2a8f-14e3-4e2b-bae8-631986b7d23e">
 </p>
 
 **옷 상품 중고거래 등록 기능**
 
 <p>
-	<img width=33% alt="신발 판매" src="https://github.com/hcb1999/timecloset/assets/79966891/b9a04bcb-976d-4360-9c62-82d179d09c54">
-	<img width=33% alt="더비슈즈" src="https://github.com/hcb1999/timecloset/assets/79966891/62e73e29-de64-41b9-9206-9e68dfbffd40">
-	<img width=33% alt="더비더비" src="https://github.com/hcb1999/timecloset/assets/79966891/fc7e6f77-afd5-4138-ac16-863fc2d3bcfa">
+	<img width=32.8% alt="신발 판매" src="https://github.com/hcb1999/timecloset/assets/79966891/b9a04bcb-976d-4360-9c62-82d179d09c54">
+	<img width=32.8% alt="더비슈즈" src="https://github.com/hcb1999/timecloset/assets/79966891/62e73e29-de64-41b9-9206-9e68dfbffd40">
+	<img width=32.8% alt="더비더비" src="https://github.com/hcb1999/timecloset/assets/79966891/fc7e6f77-afd5-4138-ac16-863fc2d3bcfa">
 	
 </p>
 
 **코디 상품 중고거래 등록 기능**
 
 <p>
-<img width=33% alt="코디 선택시" src="https://github.com/hcb1999/timecloset/assets/79966891/fa718e23-b6d7-445e-9a73-fb9fcd984fb4">
-<img width=33% alt="코디 판매버튼 클릭시" src="https://github.com/hcb1999/timecloset/assets/79966891/316df8b3-705f-40fc-b22c-cf99f62f14d0">
-<img width=33% alt="코디판매등록시" src="https://github.com/hcb1999/timecloset/assets/79966891/37624aac-6901-4cee-9911-47dcb2eb7a40">
+<img width=32.8% alt="코디 선택시" src="https://github.com/hcb1999/timecloset/assets/79966891/fa718e23-b6d7-445e-9a73-fb9fcd984fb4">
+<img width=32.8% alt="코디 판매버튼 클릭시" src="https://github.com/hcb1999/timecloset/assets/79966891/316df8b3-705f-40fc-b22c-cf99f62f14d0">
+<img width=32.8% alt="코디판매등록시" src="https://github.com/hcb1999/timecloset/assets/79966891/37624aac-6901-4cee-9911-47dcb2eb7a40">
 </p>
 
 **댓글을 이용한 중고 거래 및 거래 물품 삭제**
 
 <p>
-<img width=33% alt="댓글기능을 이용한 중고거래" src="https://github.com/hcb1999/timecloset/assets/79966891/de03dfcf-a65c-4ec2-b612-daf346c9ab6d">
-<img width=33% alt="개인 판매 등록창" src="https://github.com/hcb1999/timecloset/assets/79966891/97d155cf-aaca-4326-b3d6-ef09b6e1546c">
-<img width=33% alt="삭제 버튼 클릭시" src="https://github.com/hcb1999/timecloset/assets/79966891/4bffe72a-8a88-452a-bceb-5d397e2504f5">
+<img width=32.8% alt="댓글기능을 이용한 중고거래" src="https://github.com/hcb1999/timecloset/assets/79966891/de03dfcf-a65c-4ec2-b612-daf346c9ab6d">
+<img width=32.8% alt="개인 판매 등록창" src="https://github.com/hcb1999/timecloset/assets/79966891/97d155cf-aaca-4326-b3d6-ef09b6e1546c">
+<img width=32.8% alt="삭제 버튼 클릭시" src="https://github.com/hcb1999/timecloset/assets/79966891/4bffe72a-8a88-452a-bceb-5d397e2504f5">
 </p>
 
 
