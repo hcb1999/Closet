@@ -56,9 +56,9 @@
 **카테고리별 코디 등록 및 상세보기**
 
 <p>
-	<img width=33% alt="카테고리별코디" src="https://github.com/hcb1999/timecloset/assets/79966891/1976c54a-6ebd-46d7-b814-047bdcabf18a">
-	<img width=33% alt="카테고리 코디 등록시" src="https://github.com/hcb1999/timecloset/assets/79966891/7cc3ad13-0761-472c-81f0-45b6a01bea85">
-	<img width=33% alt="코디 선택시" src="https://github.com/hcb1999/timecloset/assets/79966891/fa718e23-b6d7-445e-9a73-fb9fcd984fb4">
+	<img width=32.5% alt="카테고리별코디" src="https://github.com/hcb1999/timecloset/assets/79966891/1976c54a-6ebd-46d7-b814-047bdcabf18a">
+	<img width=32.5% alt="카테고리 코디 등록시" src="https://github.com/hcb1999/timecloset/assets/79966891/7cc3ad13-0761-472c-81f0-45b6a01bea85">
+	<img width=32.5% alt="코디 선택시" src="https://github.com/hcb1999/timecloset/assets/79966891/fa718e23-b6d7-445e-9a73-fb9fcd984fb4">
 </p>
 
 **사진별 코디 등록 및 상세보기**
