@@ -43,6 +43,7 @@
 
 ### 댓글을 이용한 거래 및 거래 완료시 거래 품목 삭제
 - 댓글 이용 거래/ 거래 완료시 품목 삭제
+
 ![댓글](https://github.com/hcb1999/Secondtimescduler/assets/79966891/b2b0507b-6457-4c35-8396-1d7ac7ff1e82)
 
 
