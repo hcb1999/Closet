@@ -4,95 +4,22 @@
 </div>
 <br><br><br>
 
-# 🐳 프로젝트 소개
+# 주요 기능 소개
+- ** Image, GIF는 조금 기다리시면 Load 됩니다 ! **
 
- 옷장속에 있는 의류 정보를 기록하여 편리한 옷 관리와 원하는 옷을 조합한 코디 관리 기능을 제공하며 또한 필요 없는 옷들을 판매할 수 있도록 중고거래도 할 수 있는 웹사이트
-<br><br><br>
-# 🐳 프로젝트 주요 기능
-### 1️⃣ 옷장에 있는 내 옷 등록하기
-
-마음에 드는 옷을 내 옷장 웹사이트에 등록해보세요!
-
-### 2️⃣ 내 옷을 이용한 코디 서비스
-
-등록되있는 옷을 이용해서 코디를 직접 꾸며보세요!
-
-**코디 등록 창**에 넣어 한 눈에 확인할 수 있어요!
-
-### 3️⃣ 필요없는 옷들을 이용한 중고 거래 서비스
-
-나에게 필요없는 옷이나 코디들을 **다른 사용자들에게 판매**해보세요!
-
-다른 사용자와 댓글 기능을 통해 거래를 할수 있어요!
-<br><br><br>
-
-# 🐳 프로젝트 화면
-
-**로그인,회원가입 화면**
-
-<p>
-	<img width=49.5% alt="로그인" src="https://github.com/hcb1999/timecloset/assets/79966891/3f2d8feb-c6ac-42c8-8d01-cc3bebf965ed">
-	<img width=49.5% alt="회원가입" src="https://github.com/hcb1999/timecloset/assets/79966891/3007feab-b0f5-461e-ab11-e205b5d96af3">
-</p>
-
-**내 옷 상세보기 및 옷 등록 화면**
-
-<p>
-	<img width=24.5% alt="메인화면" src="https://github.com/hcb1999/timecloset/assets/79966891/77eabbe2-24e4-41b5-a0e1-b8bdca764393">
-	<img width=24.5% alt="상세모" src="https://github.com/hcb1999/timecloset/assets/79966891/ac13fa92-a4c7-44bf-84b4-c6cc3668f111">
-        <img width=24.5% alt="옷등록" src="https://github.com/hcb1999/timecloset/assets/79966891/664d7822-235f-431e-94f5-61ac776f7871">
-	<img width=24.5% alt="등록시화면" src="https://github.com/hcb1999/timecloset/assets/79966891/b99143ae-f12c-43aa-90bf-e7c2fdbafb26">
-
-</p>
-
-**검색 및 필터링 기능**
-
-<p>
-	<img width=49.5% alt="검색시나오는화" src="https://github.com/hcb1999/timecloset/assets/79966891/c227d37b-2fe9-4655-9bed-12c317d8d1b6">
-	<img width=49.5% alt="카테고리버튼클릭시" src="https://github.com/hcb1999/timecloset/assets/79966891/ad5ed0df-a8b7-49b3-9602-2dd997f63897">
-
-</p>
-
-**카테고리별 코디 등록 및 상세보기**
-
-<p>
-	<img width=32.8% alt="카테고리별코디" src="https://github.com/hcb1999/timecloset/assets/79966891/1976c54a-6ebd-46d7-b814-047bdcabf18a">
-	<img width=32.8% alt="카테고리 코디 등록시" src="https://github.com/hcb1999/timecloset/assets/79966891/7cc3ad13-0761-472c-81f0-45b6a01bea85">
-	<img width=32.8% alt="코디 선택시" src="https://github.com/hcb1999/timecloset/assets/79966891/fa718e23-b6d7-445e-9a73-fb9fcd984fb4">
-</p>
-
-**사진별 코디 등록 및 상세보기**
-
-<p>
-<img width=32.8% alt="사진으로 코디 선택창" src="https://github.com/hcb1999/timecloset/assets/79966891/045a83d5-3961-447c-b226-60e6790947a8">
-<img width=32.8% alt="사진별 코디 확인창" src="https://github.com/hcb1999/timecloset/assets/79966891/9e062ea1-35aa-4bbd-8b12-c9dcffd9ccf1">
-<img width=32.8% alt="사진별 코디 선택시" src="https://github.com/hcb1999/timecloset/assets/79966891/002e2a8f-14e3-4e2b-bae8-631986b7d23e">
-</p>
-
-**옷 상품 중고거래 등록 기능**
-
-<p>
-	<img width=32.8% alt="신발 판매" src="https://github.com/hcb1999/timecloset/assets/79966891/b9a04bcb-976d-4360-9c62-82d179d09c54">
-	<img width=32.8% alt="더비슈즈" src="https://github.com/hcb1999/timecloset/assets/79966891/62e73e29-de64-41b9-9206-9e68dfbffd40">
-	<img width=32.8% alt="더비더비" src="https://github.com/hcb1999/timecloset/assets/79966891/fc7e6f77-afd5-4138-ac16-863fc2d3bcfa">
-	
-</p>
-
-**코디 상품 중고거래 등록 기능**
-
-<p>
-<img width=32.8% alt="코디 선택시" src="https://github.com/hcb1999/timecloset/assets/79966891/fa718e23-b6d7-445e-9a73-fb9fcd984fb4">
-<img width=32.8% alt="코디 판매버튼 클릭시" src="https://github.com/hcb1999/timecloset/assets/79966891/316df8b3-705f-40fc-b22c-cf99f62f14d0">
-<img width=32.8% alt="코디판매등록시" src="https://github.com/hcb1999/timecloset/assets/79966891/37624aac-6901-4cee-9911-47dcb2eb7a40">
-</p>
-
-**댓글을 이용한 중고 거래 및 거래 물품 삭제**
-
-<p>
-<img width=32.8% alt="댓글기능을 이용한 중고거래" src="https://github.com/hcb1999/timecloset/assets/79966891/de03dfcf-a65c-4ec2-b612-daf346c9ab6d">
-<img width=32.8% alt="개인 판매 등록창" src="https://github.com/hcb1999/timecloset/assets/79966891/97d155cf-aaca-4326-b3d6-ef09b6e1546c">
-<img width=32.8% alt="삭제 버튼 클릭시" src="https://github.com/hcb1999/timecloset/assets/79966891/4bffe72a-8a88-452a-bceb-5d397e2504f5">
-</p>
+|                                                                                                         JWT를 이용한 사용자 인증                                                                                                         |                                                                                                                  KAKAO & NAVER 소셜 로그인                                                                                                                  |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                  ![jwt (1)](https://github.com/MentoMate/.github/assets/122018331/e73f8df8-96e4-4588-843e-a08776c64090)                                                                  | ![ezgif com-video-to-gif (1) (1)](https://github.com/MentoMate/.github/assets/122018331/cf143c0a-bb74-4a4d-b99b-8009982ea0ae) ![ezgif com-video-to-gif (2) (1)](https://github.com/MentoMate/.github/assets/122018331/9c53d77a-9822-48f9-8292-1213f471a293) |
+|                                                                                                            검색 및 필터 기능                                                                                                             |                                                                                                                     유저 간 실시간 채팅                                                                                                                     |
+|                                                              ![검색및필처 (1)](https://github.com/MentoMate/.github/assets/122018331/9882f494-10ee-4d7b-a3c5-ef98bdef37b7)                                                               |                                                                       ![실시간 채팅 (1)](https://github.com/MentoMate/.github/assets/122018331/02d8ef3e-61c2-44d9-860c-1fd5256ba162)                                                                        |
+|                                                                                                              이미지 업로드                                                                                                               |                                                                                                                      실시간 알림 기능                                                                                                                       |
+|                                                                ![이미지 업롣](https://github.com/MentoMate/.github/assets/122018331/7d29f214-d42a-4076-aba5-3de0049102d4)                                                                |                                                                             ![알림](https://github.com/MentoMate/.github/assets/122018331/10057adf-e67e-4a55-ab20-c891a5562efe)                                                                             |
+|                                                                                                          멘토링 일정 관리 기능                                                                                                           |                                                                                                              멘토 팔로우 및 멘토링 북마크 기능                                                                                                              |
+| ![일정등록 (1)](https://github.com/MentoMate/.github/assets/122018331/a4cfa1f8-80ff-4e34-9b00-e44b3ec512fc) ![일정 파일 업로드 다운로드 (2)](https://github.com/MentoMate/.github/assets/122018331/c4070cc7-1bdd-403b-a3d9-008fa4e57198) |                                                                        ![찜, 팔로우 (1)](https://github.com/MentoMate/.github/assets/122018331/20557f05-79c5-4fdf-9a4c-c7ac6b43acac)                                                                        |
+|                                                                                                     커뮤니티 실시간좋아요, 댓글 반영                                                                                                     |                                                                                                                          결제 기능                                                                                                                          |
+|                                                              ![찜, 팔로우 (1)](https://github.com/MentoMate/.github/assets/122018331/f62f7e23-96a3-4f6d-a9f1-bdb1f9de668b)                                                               |                                                                         ![결제 웹 (1)](https://github.com/MentoMate/.github/assets/122018331/1ff40545-2cd3-4a47-ad2e-64a201985570)                                                                          |
+|                                                                                                             멘토링 후기 기능                                                                                                             |
+|                                                                 ![후기 (1)](https://github.com/MentoMate/.github/assets/122018331/9b698ace-29f5-4bc7-a82b-1f83cc2132f8)                                                                  |
 
 
 
