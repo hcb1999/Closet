@@ -9,44 +9,53 @@
 ### 로그인 회원가입페이지
 
 - 로그인, 회원가입 기능
+<div align="center">
 
 ![로그인 회원가입 화면](https://github.com/hcb1999/Secondtimescduler/assets/79966891/300b1a1e-a42d-46ef-9106-3091140e36c5)
 
-
+</div>
 
 
 ### Home 페이지
 - 옷 CRUD 기능
-<br>
+  
 <div align="center">
 <img src="https://github.com/hcb1999/Secondtimescduler/assets/79966891/727cb453-7926-45ee-9f7e-1642903aa825" />
 </div>
 
 
 ### 검색 및 카테고리 기능
-- 옷 검색 / 계절 카테고리 
+- 옷 검색 / 계절 카테고리
+  
+<div align="center">
 
 ![검색및카테고리](https://github.com/hcb1999/Secondtimescduler/assets/79966891/087f39fc-da00-4312-a765-efb2ea8ee674)
-
+</div>
 
 ### 등록된 옷을 이용한 코디 기능.
 - 등록되있는 옷을 이용해 코디를 구성할수 있습니다.
+<div align="center">
 
 ![카테고리 코디](https://github.com/hcb1999/Secondtimescduler/assets/79966891/64797f0a-7ba1-4d41-861a-41d91ab92004)
 ![사진별 코디](https://github.com/hcb1999/Secondtimescduler/assets/79966891/81319c8f-12af-4d11-9ea2-a7ddeb78f967)
+</div>
 
 ### 중고 거래 기능
 - 옷 거래 / 코디 거래
-  
+<br>
+<div align="center">
+
 ![중고CRUD](https://github.com/hcb1999/Secondtimescduler/assets/79966891/a0f95a43-eee6-4825-bbb1-f9094d2f0fd0) 
 ![코디거래](https://github.com/hcb1999/Secondtimescduler/assets/79966891/0b935e77-36ec-4326-8327-6d38c8421055)
 
+</div>
 
 ### 댓글을 이용한 거래 및 거래 완료시 거래 품목 삭제
 - 댓글 이용 거래/ 거래 완료시 품목 삭제
+<div align="center">
 
 ![댓글](https://github.com/hcb1999/Secondtimescduler/assets/79966891/b2b0507b-6457-4c35-8396-1d7ac7ff1e82)
-
+</div>
 
 
 
