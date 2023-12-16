@@ -5,6 +5,7 @@
 <br><br><br>
 
 ## 🔍 미리보기
+
 ### 로그인 회원가입페이지
 
 - 로그인, 회원가입 기능
@@ -16,10 +17,10 @@
 
 ### Home 페이지
 - 옷 CRUD 기능
-
-![옷장 crud](https://github.com/hcb1999/Secondtimescduler/assets/79966891/727cb453-7926-45ee-9f7e-1642903aa825)
-
-
+<br>
+<div align="center">
+<img src="https://github.com/hcb1999/Secondtimescduler/assets/79966891/727cb453-7926-45ee-9f7e-1642903aa825" />
+</div>
 
 
 ### 검색 및 카테고리 기능
